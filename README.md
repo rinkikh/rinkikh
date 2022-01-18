@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rinkikh
+- 👋 Hello
 - 👀 I’m interested in web designing.
 - 🌱 I’m currently learning front-end programming
 - 📫 How to reach me ...rinki9414@gmail.com
