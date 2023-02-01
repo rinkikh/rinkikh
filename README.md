@@ -1,6 +1,6 @@
 - 👋 Hello
-- 👀 I’m interested in web designing.
-- 🌱 I’m currently learning front-end programming
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning MERN
 - 📫 How to reach me ...rinki9414@gmail.com
 
 <!---
