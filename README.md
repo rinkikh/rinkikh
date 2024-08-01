@@ -13,16 +13,11 @@
 
 - 📫 How to reach me **rinki9414@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MWhjbzz3NPKi-JdZ8mclVpVn-skHl8tz/view?usp=share_link](https://drive.google.com/file/d/1MWhjbzz3NPKi-JdZ8mclVpVn-skHl8tz/view?usp=share_link)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/rinki-singh-a01bb8257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rinki-singh-a01bb8257" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/rinki9414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rinki9414" height="30" width="40" /></a>
 </p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rinkikh&show_icons=true&locale=en&layout=compact" alt="rinkikh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rinkikh&show_icons=true&locale=en" alt="rinkikh" /></p>
 
