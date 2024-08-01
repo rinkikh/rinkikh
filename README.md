@@ -5,11 +5,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rinkikh" alt="rinkikh" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS ,Node ,MongoDB **
+- 🌱 I’m currently working on Python **
 
 - 👨‍💻 All of my projects are available at [rinkikh.github.io](rinkikh.github.io)
 
-- 💬 Ask me about **React ,Javacsript , CSS ,HTML**
+- 💬 Ask me about ** Python,React ,Javacsript , CSS ,HTML**
 
 - 📫 How to reach me **rinki9414@gmail.com**
 
