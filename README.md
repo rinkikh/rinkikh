@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently working on Python **
 
-- 👨‍💻 All of my projects are available at [rinkikh.github.io](rinkikh.github.io)
 
-- 💬 Ask me about ** Python,React ,Javacsript , CSS ,HTML**
+
+- 💬 Ask me about ** Python,React JS,Javacsript , CSS ,HTML**
 
 - 📫 How to reach me **rinki9414@gmail.com**
 
